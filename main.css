@@ -310,7 +310,7 @@ form button {
     padding: 0rem 0.5rem;
 }
 
-.fa-trash, .fa-check { 
+.fa-trash, .fa-check, .fa-edit { 
     pointer-events: none;
 }
 
@@ -381,4 +381,5 @@ form button {
     form > button.light-button {
         box-shadow: 0 0 5px lightgray;
     }
+
 }
